@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: shinojl4dx/frontend:2c501d1
+        image: shinojl4dx/frontend:153b7b4
         ports:
         - containerPort: 80
 ---
