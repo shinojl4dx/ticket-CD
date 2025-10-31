@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: login-be
-        image: shinojl4dx/login-be:153b7b4
+        image: shinojl4dx/login-be:a381bd7
         ports:
         - containerPort: 8000
 ---
